@@ -1,0 +1,5 @@
+text,label
+"Verify your account immediately by clicking http://bit.ly/test",phishing
+"Your bank account has been suspended",phishing
+"Meeting scheduled for tomorrow at 10 AM",safe
+"Please find attached the project report",safe
